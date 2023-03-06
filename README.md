@@ -1,5 +1,5 @@
 # British-Accent
-this is a compilation of British accent <br />
+<em><i>This is a compilation of British accent</i></em> <br />
 <b> Bristish words </b> <br />
 Abdomen (ab-duh-muhn) <br />
 Accolade (ak-uh-leyd) <br />
